@@ -10,15 +10,22 @@
 
 我將此議程定位為人人都能上手的科普講座，因此將技術門檻降到最低（使用 p5js），目的不是傳授新的技術，而是提供聽眾 code as art, art as life 的新概念。我想傳遞的價值與知識有以下：
 
+#### 衍生藝術介紹 25%
 - 如何用程式語言玩藝術，何謂衍生式藝術（generative art）
 - 產生器（generator）的基本概念與實作方式
 - 衍生式藝術的核心：只調整 generator 的參數與演算法，不直接參與「結果」。跟傳統的藝術相反
+
+#### 開始實作產生器囉 50%
 - 基本的 p5.js 玩法（color、transform、math、shapes）就可以寫出很多效果
 - 三角函數的應用會特別示範，因為只要一個函式搭配參數變化就能做出效果驚人的視覺
 - random 與 noise 概念介紹與應用（noise 可以先理解為具有連續性的 random，他在日後很重要）
 - 非常簡單的運動學（F=MA、steering behavior、physics engine、flocking，這邊電玩物理學的東西太多，不會全講）
 - flowfield（模擬自然界中河流、礦物紋理的視覺）
+
+#### 衍生藝術的價值與未來 25%
 - 回到 generative 的主線，談談觀看程式、藝術與生活的思考方式
+- generative 思維如何投入其他產業（建築設計、工業設計、織品設計等等），以及為什麼他們很重要
+- 介紹各大 generative artists 如何使用程式語言打造超強藝術
 
 為了讓整個議程有趣生動，我每介紹一個知識，都會有附圖、作品、動畫、甚至 live demo（如果時間許可）。
 
@@ -40,13 +47,15 @@
 - [簡單 3D 實作](https://chiunhau.github.io/p5-gallery/fake-3d/)
 - [靜香團：transform](http://imgur.com/a/7md9Q)
 
-#### 不是我的，但可能會拿來分享
+#### 其他大神的東西
 - [WebGL 音樂視覺化](http://audiograph.xyz)
 - [EXPERIMENTS IN GENERATIVE ART & DESIGN](http://experimentsingenerativeart.tumblr.com)
 - [Sasj：專長為 2D 圖形研究](http://sasj.tumblr.com)
-- [Jessica Rosenkrantz：將自然界的演算法導入 3D 列印](http://n-e-r-v-o-u-s.com)
+- [Jessica Rosenkrantz：將自然界的演算法導入 3D 織品列印](http://n-e-r-v-o-u-s.com)
 - [Diana Lange：植物姿態的再現](http://www.diana-lange.de/portfolio/generative/nature_of_code/nature.html)
 - [Holger Lippmann：Generative artist](https://www.facebook.com/holger.lippmann?pnref=about.eh)
+- [Daniel Shiffman：Nature of Code](http://natureofcode.com)
+- [Rhino Grasshopper：一種衍生式產品設計的外掛](http://www.grasshopper3d.com)
 - 還有好多我放不完
 
 ### Bio
