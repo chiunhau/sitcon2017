@@ -8,24 +8,25 @@
 
 ### Outline
 
-我將此議程定位為人人都能上手的科普講座，因此將技術門檻降到最低（使用 p5js），目的不是傳授新的技術，而是提供聽眾 code as art, art as life 的新概念。我想傳遞的價值與知識有以下：
+我將此議程定位為人人都能上手的科普講座，因此將技術門檻降到最低（使用 p5js），目的不是傳授新的技術，而是提供聽眾新的思考程式與藝術關係的方式，或者說是 code as art, art as life 的觀點。我的大綱大致如下：
 
 #### 衍生藝術介紹 25%
-- 如何用程式語言玩藝術，何謂衍生式藝術（generative art）
+- 如何用程式語言玩藝術，何謂衍生式藝術（generative art）？程式語言為何如此重要？
 - 產生器（generator）的基本概念與實作方式
 - 衍生式藝術的核心：只調整 generator 的參數與演算法，不直接參與「結果」。跟傳統的藝術相反
 
 #### 開始實作產生器囉 50%
-- 基本的 p5.js 玩法（color、transform、math、shapes）就可以寫出很多效果
+- 基本的 p5.js 玩法（color、transform、math、shapes 等等）就可以寫出很多效果
 - 三角函數的應用會特別示範，因為只要一個函式搭配參數變化就能做出效果驚人的視覺
 - random 與 noise 概念介紹與應用（noise 可以先理解為具有連續性的 random，他在日後很重要）
 - 非常簡單的運動學（F=MA、steering behavior、physics engine、flocking，這邊電玩物理學的東西太多，不會全講）
-- flowfield（模擬自然界中河流、礦物紋理的視覺）
+- flowfield（模擬自然界中河流、礦物紋理、煙霧的視覺）
 
 #### 衍生藝術的價值與未來 25%
-- 回到 generative 的主線，談談觀看程式、藝術與生活的思考方式
-- generative 思維如何投入其他產業（建築設計、工業設計、織品設計等等），以及為什麼他們很重要
-- 介紹各大 generative artists 如何使用程式語言打造超強藝術
+- 從 2D 的藝術產生器，回到 generative art 的主線，再次強調 generative thinking 的部分
+- generative 思維如何投入其他產業（建築設計、工業設計、織品設計等等），以及為什麼他們至關重要
+- 介紹各大 generative 工程師或藝術家如何使用程式語言打造超強產品
+- 談談思考程式、藝術與生活之間的觀點
 
 為了讓整個議程有趣生動，我每介紹一個知識，都會有附圖、作品、動畫、甚至 live demo（如果時間許可）。
 
@@ -33,7 +34,7 @@
 
 這個議題是不分技術與背景的，因為藝術是人類生活的一部分，而衍生是藝術又是基於程式語言才發展出來的，所以個人認為很適合在 sitcon 分享。
 
-### Reference for review
+### References(Attachments) For Review Committee
 
 #### 我的一些衍生藝術作品
 - [彩帶產生器：math](https://www.behance.net/gallery/42975781/Aesthetic-Computing-Study-I)
@@ -60,4 +61,9 @@
 
 ### Bio
 
-台科大商業設計系三年級，專注於平面設計的修煉，夢想是當藝術家或月薪嬌妻。寫了四年有餘的程式，目前把程式語言當作設計的工具之一（菸）。SITCON 2016 講者、五倍紅寶石前端實習生、TEDxNTUST 設計部長。
+台科大商業設計系三年級，專注於平面設計的修煉，夢想是當藝術家或月薪嬌妻。寫了四年有餘的程式，目前把程式語言當作設計的工具之一（菸）。曾任 SITCON 2016 講者、五倍紅寶石前端實習生，現為 TEDxNTUST 設計部長。
+
+#### 更多關於
+- [Github](https://github.com/chiunhau/)
+- [Behance 作品集](https://www.behance.net/chiunhauyou)
+- [SITCON 2016 講題的投影片](http://www.slideshare.net/chiunhau/js-library)
