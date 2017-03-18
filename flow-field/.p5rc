@@ -1,0 +1,16 @@
+{
+  "name": "sitcon2017-demo",
+  "projects": [
+    "basic-1",
+    "basic",
+    "random-visual",
+    "noise-visual",
+    "random-visual-2",
+    "noise-visual-2",
+    "random-visual-3",
+    "random-painter",
+    "physic-1",
+    "flow-field",
+    "time-flow"
+  ]
+}
